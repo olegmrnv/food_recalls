@@ -1,2 +1,2 @@
 mysql_user = "root"
-mysql_password = "YOUR PASSWORD HERE"
+mysql_password = ""
