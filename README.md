@@ -3,4 +3,6 @@
 
 *Update db_key.py with your login and password from your local installation of MySQL (defaul user - root)
 
+*Run pip install pymysql (if not already installed on computer)
+
 *Open and run final_data_processing.ipynb
