@@ -1,4 +1,6 @@
-# APIs
-*Clone repository, and create a config.py file with an api_key = "your API key" in the food_recalls folder. 
+# instructions
+*Clone repository (note: file en.openfoodfacts.org.products.tsv is 963 MB and it will be loaded from Git Large File Storage)
 
-*Code runs in the FDA_API 2 and final_data_cleaning files with  with an import api_key from config.py!
+*Update db_key.py with your login and password from your local installation of MySQL (defaul user - root)
+
+*Open and run final_data_processing.ipynb
