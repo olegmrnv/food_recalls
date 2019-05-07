@@ -6,3 +6,5 @@
 *Run pip install pymysql (if not already installed on computer)
 
 *Open and run final_data_processing.ipynb
+
+*Refer to Diag1 and Diag2 for DB schema and Final report for details. 
