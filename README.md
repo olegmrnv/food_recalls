@@ -1,5 +1,5 @@
 # Food Recalls
-A database ready for future analysis of food recalls and potential reasons for that. This is ETL project. Myself and other team members worked on extracting data from csv, tsv files and API responses. Then we transformed it in a way where we drop partial/invalid records, remove redundancy, create relational tables and after that load into MySQL database.  Diag1 and Diag2 visually present how data structured. 
+A database ready for future analysis of food recalls and potential reasons for that. This is ETL project. Myself and other team members worked on extracting data from csv, tsv files and API responses. Then we transformed it in a way where we drop partial/invalid records, remove redundancy, create relational tables and after that load into MySQL database.  Diag1 and Diag2 (Final_report folder) visually present how data structured. 
 
 Python used as a  primary programming language, other libraries: Pandas, JSON, Requests, SQLAlchemy, Pandas.io, mysql.connector, pprint.
 
