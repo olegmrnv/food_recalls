@@ -14,3 +14,7 @@ Python used as a  primary programming language, other libraries: Pandas, JSON, R
 *Open and run data_processing.ipynb
 
 *Refer to Diag1 and Diag2 for DB schema and Final report for details. 
+
+![graphs](Final_report/Diag1.jpg "diagram 1")
+
+![graphs](Final_report/Diag2.jpg "diagram 2")
